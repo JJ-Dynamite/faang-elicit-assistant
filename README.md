@@ -1,6 +1,6 @@
 # AI research paper assistant
 
-[![CI](https://github.com/JJ-Dynamite/faang-elicit-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-elicit-assistant/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/elicitassistant/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/elicitassistant/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > AI research paper assistant - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-elicit-assistant.git
+git clone https://github.com/JJ-Dynamite/elicitassistant.git
 cd elicit-assistant
 
 # Install backend dependencies

@@ -1,11 +1,11 @@
 [package]
-name = "faang-elicit-assistant-backend"
+name = "elicitassistant-backend"
 version = "0.1.0"
 edition = "2021"
 description = "AI research paper assistant - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-elicit-assistant"
+repository = "https://github.com/JJ-Dynamite/elicitassistant"
 
 [dependencies]
 axum = "0.7"
