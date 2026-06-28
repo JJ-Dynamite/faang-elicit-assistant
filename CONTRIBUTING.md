@@ -1,4 +1,4 @@
-# Contributing to elicit-assistant
+# Contributing to faang-elicit-assistant
 
 Thank you for your interest in contributing!
 
